@@ -37,7 +37,7 @@ For each selected sample the logistic regression curve is fitted and the thresho
 GUI Language
 ------------
 
-The default language of the GUI is English, but you can change it to German, French, Chinese or Portuguese in the Settings tab of the GUI.
+The default language of the GUI is English, but you can change it to German, French, Chinese, Portuguese, Russian or Spanish in the Settings tab of the GUI.
 If you want to contribute a translation to another language you, use the files inside the lang folder as a template.
 You can then send us the translated files or create a pull request.
 To check your translation, place your file inside the ``lang`` folder and start the GUI, your language should now be available in the **Settings** tab.
@@ -52,3 +52,5 @@ French: `@FranciumSoftware <https://github.com/FranciumSoftware>`_
 Portuguese: Larissa Sugai (`@LSMSugai <https://github.com/LSMSugai>`_)
 
 Russian: Александр Цветков (cau@yandex.ru, radio call sign: R1BAF)
+
+Spanish: Joaquín Krasuk (`@jkrasuk <https://github.com/jkrasuk>`_)
